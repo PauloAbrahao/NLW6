@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Rocket.Q" title="Rocket.Q" src="https://github.com/PauloAbrahao/nlw6-discover/blob/main/.github/rocketq.png" width="220px" />
+  <img alt="Rocket.Q" title="Rocket.Q" src="https://raw.githubusercontent.com/PauloAbrahao/NLW6/665d2fd9a65f8791d67c532e174372b482319611/assets/logo.svg" width="220px" />
 </h1>
 
 <p align="center">

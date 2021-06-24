@@ -17,11 +17,11 @@
 
 <br>
 
-<!--
+
 <p align="center">
-  <img alt="https://raw.githubusercontent.com/PauloAbrahao/nlw6-discover/main/.github/Rocket_Q.png" width="100%">
+  <img src="https://github.com/PauloAbrahao/NLW6/blob/main/Rocket_Q.png?raw=true" width="100%">
 </p>
--->
+
 
 
 ## 🚀 Tecnologias

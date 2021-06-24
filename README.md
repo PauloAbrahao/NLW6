@@ -5,7 +5,6 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -22,10 +21,6 @@
   <img alt="https://raw.githubusercontent.com/PauloAbrahao/nlw6-discover/main/.github/Rocket_Q.png" width="100%">
 </p>
 -->
-
-<p align="center">
-  <img alt="https://github.com/rocketseat-education/nlw6-discover/raw/main/.github/Rocket_Q.png" width="100%">
-</p>
 
 
 ## 🚀 Tecnologias

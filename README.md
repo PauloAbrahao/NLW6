@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="https://github.com/PauloAbrahao/nlw6-discover/blob/main/.github/Rocket_Q.png" width="100%">
+  <img alt="https://raw.githubusercontent.com/PauloAbrahao/nlw6-discover/main/.github/Rocket_Q.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias

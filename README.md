@@ -17,10 +17,11 @@
 
 <br>
 
+<!--
 <p align="center">
   <img alt="https://raw.githubusercontent.com/PauloAbrahao/nlw6-discover/main/.github/Rocket_Q.png" width="100%">
 </p>
-
+-->
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:

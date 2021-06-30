@@ -14,6 +14,7 @@
         <!-- CSS -->
         <link rel="stylesheet" href="style/global.css">
         <link rel="stylesheet" href="style/room.css">
+        <link rel="stylesheet" href="style/modal.css">
     </head>
 <body>
     
@@ -60,11 +61,86 @@
                     <div class="question-content">
 
                         <div class="user">
-                            <img src="assets/avatar.svg" alt="">
+                            <img src="assets/avatar-cinza.svg" alt="">
                         </div>
 
                         <div class="question">
-                            <p>Qual a diferença entre const, var e let em Javascript</p>
+                            <p>Qual a diferença entre const, var e let em Javascript? </p>
+                        </div>
+
+                    </div>
+
+                    <div class="actions">
+                        <a href="#" class="check">
+                            <img src="assets/check.svg" alt="Marcar como lida">
+                            Marcar como lida
+                        </a>
+                        <a href="#" class="delete">
+                            <img src="assets/trash.svg" alt="Excluir">
+                            Excluir
+                        </a>
+                    </div>
+                </div>
+
+                <div class="questions-wrapper">
+                    <div class="question-content">
+
+                        <div class="user">
+                            <img src="assets/avatar-cinza.svg" alt="">
+                        </div>
+
+                        <div class="question">
+                            <p>O que é Javascript</p>
+                        </div>
+
+                    </div>
+
+                    <div class="actions">
+                        <a href="#" class="check">
+                            <img src="assets/check.svg" alt="Marcar como lida">
+                            Marcar como lida
+                        </a>
+                        <a href="#" class="delete">
+                            <img src="assets/trash.svg" alt="Excluir">
+                            Excluir
+                        </a>
+                    </div>
+                </div>
+
+                <div class="questions-wrapper">
+                    <div class="question-content">
+
+                        <div class="user">
+                            <img src="assets/avatar-cinza.svg" alt="">
+                        </div>
+
+                        <div class="question">
+                            <p>Para ocultar um elemento em um documento utilizando CSS, pode-se alterar a propriedade “display” para “none”, ou “visibility” para “hidden”. Qual a diferença entre essas propriedades? Obrigado desde já!!  </p>
+                        </div>
+
+                    </div>
+
+                    <div class="actions">
+                        <a href="#" class="check">
+                            <img src="assets/check.svg" alt="Marcar como lida">
+                            Marcar como lida
+                        </a>
+                        <a href="#" class="delete">
+                            <img src="assets/trash.svg" alt="Excluir">
+                            Excluir
+                        </a>
+                    </div>
+                </div>
+
+                <div class="questions-wrapper read">
+                    <div class="question-content">
+
+                        <div class="user">
+                            <img src="assets/avatar-cinza.svg" alt="">
+                        </div>
+
+                        <div class="question">
+                            <p>O que é TypeScript? </p>
                         </div>
 
                     </div>
@@ -82,7 +158,26 @@
                 </div>
             </section>
         </main>
+    </div>
 
+    <div class="modal-wrapper">
+        <div class="modal">
+            <h2>Excluir pergunta</h2>
+            <p>Tem certeza que você deseja excluir esta pergunta?</p>
+
+            <form action="#">
+                <label for-id="password" class="sr-only">Digite sua senha</label>
+                <input type="password" id="password" name="password" placeholder="Digite sua senha" />
+
+                <div class="buttons">
+                    <div class="button grey">
+                        Cancelar
+                    </div>
+
+                    <button class="red">Sim, excluir</button>
+                </div>
+            </form>
+        </div>
     </div>
 </body>
 </html>

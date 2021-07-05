@@ -1,0 +1,24 @@
+{
+  "name": "rocketQ",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido para gerenciar perguntas realizadas por usúarios anônimos.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PauloAbrahao/NLW6.git"
+  },
+  "keywords": [],
+  "author": "Paulo Abrahao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PauloAbrahao/NLW6/issues"
+  },
+  "homepage": "https://github.com/PauloAbrahao/NLW6#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}

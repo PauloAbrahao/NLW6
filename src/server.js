@@ -13,6 +13,8 @@ server.use(express.static("public")) // Torna acessível o uso da pasta 'public'
 
 server.set('views', path.join(__dirname, 'views')) // o 'path' pega o caminho da pasta onde está o projeto e junta(join) ao arquivo atual
 
+server.use(express.urlencoded({extended: true}))
+
 server.use(route) // Usa o arquivo route
 
 server.listen(3000, ()=> console.log("RODANDO!!!"))
